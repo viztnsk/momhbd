@@ -1,0 +1,25 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__text/header__text.css);
+@import url(../blocks/header/__image/header__image.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__span/header__span.css);
+@import url(../blocks/header/__heart/header__heart.css);
+/* @import url(../blocks/main/main.css); */
+@import url(../blocks/congrat/congrat.css);
+@import url(../blocks/congrat/__container/congrat__container.css);
+@import url(../blocks/congrat/__text/congrat__text.css);
+@import url(../blocks/congrat/__heading/congrat__heading.css);
+@import url(../blocks/congrat/__span/congrat__span.css);
+@import url(../blocks/sliders/sliders.css);
+@import url(../blocks/sliders/__container/sliders__container.css);
+@import url(../blocks/slide/slide.css);
+@import url(../blocks/slide/__type/slide__type_active.css);
+@import url(../blocks/slide/__title/slide__title.css);
+@import url(../blocks/slide/__title/_type/slide__title_type_active.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__heading/footer__heading.css);
+@import url(../blocks/footer/__date/footer__date.css);
+@import url(../blocks/footer/__container/footer__container.css);

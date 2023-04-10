@@ -1,0 +1,12 @@
+.header__subtitle {
+  max-width: calc(100vw - 550px);
+  font-family: 'Nunito', sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  position: absolute;
+  top: 130px;
+  right: 20px;
+  box-sizing: border-box;
+  /* margin: 10px 0 auto 210px; */
+}

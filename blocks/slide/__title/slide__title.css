@@ -1,0 +1,10 @@
+.slide__title {
+  position: absolute;
+  font-size: 24px;
+  color: #F5EBE0;
+  font-size: 28px;
+  bottom: 30px;
+  left: 20px;
+  margin: 0;
+  display: none;
+}

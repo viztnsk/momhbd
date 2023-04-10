@@ -1,0 +1,9 @@
+.congrat {
+  min-height: 600px;
+  max-height: 756px;
+  height: 100vh;
+  background-color: #49393B;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
